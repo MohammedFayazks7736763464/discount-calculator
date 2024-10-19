@@ -1,0 +1,53 @@
+.main{
+
+  height: 500px;
+  border: 5px ridge rgb(222, 24, 24);
+  background-color: rgb(11, 181, 65);
+  width: 400px;
+  display: flex;
+  margin-left: 38%;
+  margin-top: px;
+  border-radius: 30px;
+  
+
+}
+.tt{
+  text-align: center;
+  text-decoration: underline;
+  margin-left: 10px;
+}
+.gg{
+  border-radius: 30px;
+  border: none;
+  width: 250px;
+}
+.bill{
+  color:whitesmoke;
+}
+.ff{
+  
+  margin:5px;
+  margin-top: 50px;
+}
+.gf{
+  border-radius: 30px;
+  border: none;
+  width: 250px;
+
+
+}
+.p{
+  text-align: center;
+}
+.butt{
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+.result{
+  margin-top: 70px;
+}
+.color{
+  background-color: bisque;
+  height: 1000px;
+}
